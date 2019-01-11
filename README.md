@@ -1,1 +1,5 @@
 # RestTemplateTesting
+
+MaxConnPerRoute
+
+MaxConnTotal
